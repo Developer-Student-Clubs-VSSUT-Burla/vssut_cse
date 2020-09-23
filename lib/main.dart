@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
                               ),
                                 child: TextField(
                                   decoration: InputDecoration(
-                                      hintText: "Enter Email",
+                                      hintText: "Enter Email)",
                                       icon:Icon(
                                         Icons.account_box,
                                         //color: kPrimaryColor,
@@ -113,7 +113,7 @@ class HomePage extends StatelessWidget {
 
                       ),
                       SizedBox(height:40,),
-                      FadeAnimation(1.5,Text("Forgot Password ? ",style:TextStyle(color:Colors.grey),),),
+                      FadeAnimation(1.5,Text("Forgot Password ( reset password)? ",style:TextStyle(color:Colors.grey),),),
                       SizedBox(height:40,),
                       FadeAnimation(1.6,
                         Container(
