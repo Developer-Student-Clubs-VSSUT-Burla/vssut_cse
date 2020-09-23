@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
           gradient: LinearGradient(
             begin:Alignment.topCenter,
             colors:[
-              Colors.orange[900],
+              Colors.orange[950],
               Colors.orange[800],
               Colors.orange[400],
             ]
