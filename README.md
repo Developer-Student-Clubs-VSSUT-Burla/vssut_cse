@@ -25,7 +25,7 @@ A few resources to get you started if this is your first Flutter project:
 
 # Steps Towards contribution
 1> Fork the repo <br>
-2> Upadte the activities, add new features. <br>
+2> Update the activities, add new features. <br>
 3> Create pull request. <br>
 4> Wait for the review and You are the contributer. Cheers <br>
 
