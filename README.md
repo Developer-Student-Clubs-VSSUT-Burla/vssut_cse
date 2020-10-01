@@ -4,14 +4,14 @@ An cross plateform app which helps you with provodes the information regarding e
 
 # Features
 
-Login/ Signup Page
-Profile page
-Timetable
-Holiday List
-Syllabus
-Lecture Notes and Class Notes(with weekly update)
-Contact Page
-Feedback page
+Login/ Signup Page <br>
+Profile page <br>
+Timetable <br>
+Holiday List <br>
+Syllabus <br>
+Lecture Notes and Class Notes(with weekly update) <br>
+Contact Page <br>
+Feedback page <br>
 
 
 ## Getting Started
@@ -24,10 +24,10 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 # Steps Towards contribution
-1> Fork the repo
-2> Upadte the activities, add new features.
-3> Create pull request.
-4> Wait for the review and You are the contributer. Cheers
+1> Fork the repo <br>
+2> Upadte the activities, add new features. <br>
+3> Create pull request. <br>
+4> Wait for the review and You are the contributer. Cheers <br>
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
